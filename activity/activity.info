@@ -1,0 +1,8 @@
+[Activity]
+name = Sucrabble
+bundle_id = org.laptop.SucrabbleActivity
+class = SucrabbleActivity.SucrabbleActivity
+icon = activity-icon
+activity_version = 1
+host_version = 1
+show_launcher = yes
